@@ -1,0 +1,30 @@
+.main{
+    background-color: #FF5252;
+    color: white;
+    padding: 70px;
+    height: 100%;
+    text-align: center;
+}
+
+.browse{
+    padding: 20px;
+    width: 100%;
+    max-width: 500px;
+}
+
+form > p{
+    text-align: left;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-red{
+    background-color: #FF3332;
+    color: white;
+}
+
+.btn-red:hover{
+    background-color: red;
+    color: white;
+}
